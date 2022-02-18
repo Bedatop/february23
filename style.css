@@ -12,7 +12,7 @@ body {
 .wrapper {
     height: 100vh;
     overflow: hidden;
-    background: url('/fon.jpg');
+    background: url('fon.jpg');
     text-align: center;
     background-repeat: no-repeat;
     background-size: cover;
